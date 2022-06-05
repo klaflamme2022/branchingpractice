@@ -2,3 +2,7 @@ So far I have created 3 branches
 Learned how to switch branches
 Learned how to rename the branch
 Learned how to stash changes
+So far I have created 3 branches
+Learned how to switch branches
+Learned how to rename the branch
+Learned how to stash changes
